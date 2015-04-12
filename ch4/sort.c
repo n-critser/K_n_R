@@ -1,3 +1,7 @@
+/*
+  File: sort.c : quick sort program on integers. 
+  Compile: gcc sort.c qsort.c
+ */
 #include <stdio.h>
 #include "qsort.h"
 
