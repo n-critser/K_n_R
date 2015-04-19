@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-#include "bTree.h"
+#include "getch.h"
 
 /*
    File: binTree.c -- K & R Section 6.5 Self-referential Structures
